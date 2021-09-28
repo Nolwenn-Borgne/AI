@@ -9,7 +9,7 @@ Write a program that determines how many “degrees of separation” apart two a
 
 I had to implement `the shortest_path` function such that it returns the shortest path from person with `id` source to person with the id `target`
 
-### Tix-Tac-Toe
+### Tic-Tac-Toe
 
 Using Minimax, implement an AI to play Tic-Tac-Toe optimally.
 
@@ -28,3 +28,18 @@ I had to add knowledge to knowledge bases `knowledge0`, `knowledge1`, `knowledge
 Write an AI to play Minesweeper.
 
 I had to complete the implementations of the `Sentence` class and the `MinesweeperAI` class in minesweeper.py.
+
+## Uncertainty
+
+### PageRank
+
+Write an AI to rank web pages by importance.
+
+I had to complete the implementation of `transition_model`,`sample_pagerank`, and `iterate_pagerank`.
+
+### Heredity
+
+Write an AI to assess the likelihood that a person will have a particular genetic trait.
+
+In Progress...
+
